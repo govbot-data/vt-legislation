@@ -103,6 +103,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z"
+    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "text_extraction_latest_update": "2026-07-22T00:34:38.615714Z"
   }
 }
