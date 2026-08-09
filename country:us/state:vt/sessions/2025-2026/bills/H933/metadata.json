@@ -642,6 +642,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Vyhovsky",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Vyhovsky, Failed -- Needed 15 of 29 to Pass -- Yeas = 2, Nays = 27",
       "date": "2026-05-01",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -662,6 +672,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:01Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Weeks",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -1080,7 +1100,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:01Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-21T22:37:34.068615Z"
   }
 }

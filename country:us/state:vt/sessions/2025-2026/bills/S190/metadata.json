@@ -355,6 +355,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Weeks",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Read 3rd time & passed on roll call, requested by Senator Weeks, Passed -- Needed 15 of 29 to Pass -- Yeas = 23, Nays = 6",
       "date": "2026-03-31",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -635,22 +645,20 @@
       }
     },
     {
-      "description": "Roll Call, requested by Senator Collamore, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
+      "description": "Roll Call, Requested by Sen. Collamore",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:59:01Z"
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
-      "description": "As passed by Senate and House",
+      "description": "Roll Call, requested by Senator Collamore, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:01Z"
@@ -662,6 +670,18 @@
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:01Z"
+      }
+    },
+    {
+      "description": "As passed by Senate and House",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -846,7 +866,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:01Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-22T00:53:39.739394Z"
   }
 }

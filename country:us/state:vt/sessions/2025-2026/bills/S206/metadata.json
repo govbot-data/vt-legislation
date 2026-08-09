@@ -269,6 +269,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Weeks",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Senator(s) Heffernan motion to commit bill to Committee on Education disagreed to on roll call requested by Sen. Weeks, Failed -- Needed 14 of 28 to Pass -- Yeas = 9, Nays = 19",
       "date": "2026-03-18",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -286,6 +296,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Baruth",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -350,6 +370,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Mattos",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -484,7 +514,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-21T21:57:41.129640Z"
   }
 }

@@ -260,22 +260,22 @@
       }
     },
     {
-      "description": "Which was agreed to on a Roll Call Passed -- Needed 71 of 141 to Pass -- Yeas = 79, Nays = 62",
-      "date": "2026-04-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:03Z"
-      }
-    },
-    {
       "description": "Third Reading ordered",
       "date": "2026-04-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Which was agreed to on a Roll Call Passed -- Needed 71 of 141 to Pass -- Yeas = 79, Nays = 62",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
@@ -745,6 +745,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Hardy",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "3rd reading ordered on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 27, Nays = 2",
       "date": "2026-05-26",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -771,18 +781,6 @@
       "classification": [
         "amendment-introduction",
         "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:03Z"
-      }
-    },
-    {
-      "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
-      "date": "2026-05-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -838,6 +836,18 @@
       "date": "2026-05-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
@@ -1218,7 +1228,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-21T22:07:58.396901Z"
   }
 }

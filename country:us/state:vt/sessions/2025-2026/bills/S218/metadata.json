@@ -296,6 +296,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Ram Hinsdale",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "3rd reading ordered on roll call Passed -- Needed 15 of 30 to Pass -- Yeas = 29, Nays = 1",
       "date": "2026-02-17",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -795,7 +805,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-22T01:09:28.620909Z"
   }
 }

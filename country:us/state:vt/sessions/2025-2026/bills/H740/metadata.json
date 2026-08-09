@@ -350,6 +350,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Ingalls",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "3rd reading ordered on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 17, Nays = 12",
       "date": "2026-05-15",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -406,6 +416,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Ram Hinsdale",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -446,6 +466,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Beck",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Beck, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -453,6 +483,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:01Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Westman",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -524,6 +564,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Beck",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Beck, Failed -- Needed 15 of 30 to Pass -- Yeas = 14, Nays = 16",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -557,22 +607,20 @@
       }
     },
     {
-      "description": "Roll Call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
+      "description": "Roll Call, Requested by Sen. Ram Hinsdale",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:59:01Z"
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
-      "description": "Senate Message: Passed in concurrence with proposal of amendment",
+      "description": "Roll Call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",
       "date": "2026-05-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:01Z"
@@ -584,6 +632,18 @@
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:59:01Z"
+      }
+    },
+    {
+      "description": "Senate Message: Passed in concurrence with proposal of amendment",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -726,6 +786,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:01Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Watson",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -889,7 +959,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:01Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-21T23:39:30.555925Z"
   }
 }

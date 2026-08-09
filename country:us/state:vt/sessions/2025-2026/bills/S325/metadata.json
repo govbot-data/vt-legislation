@@ -344,6 +344,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Ingalls",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Ingalls, Failed -- Needed 15 of 30 to Pass -- Yeas = 13, Nays = 17",
       "date": "2026-03-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -354,6 +364,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Ingalls",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Recommendation of amendment, as amended, agreed to on roll call requested by Senator Ingalls, Passed -- Needed 15 of 30 to Pass -- Yeas = 18, Nays = 12",
       "date": "2026-03-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -361,6 +381,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Ram Hinsdale",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -1173,6 +1203,16 @@
       }
     },
     {
+      "description": "Roll Call, Requested by Sen. Watson",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
+      }
+    },
+    {
       "description": "Roll Call, requested by Senator Watson, Passed -- Needed 15 of 30 to Pass -- Yeas = 27, Nays = 3",
       "date": "2026-05-27",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1210,6 +1250,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:59:03Z"
+      }
+    },
+    {
+      "description": "Roll Call, Requested by Sen. Watson",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:10:16Z"
       }
     },
     {
@@ -1445,7 +1495,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-08-09T06:10:16Z",
     "text_extraction_latest_update": "2026-07-21T23:08:59.875241Z"
   }
 }
