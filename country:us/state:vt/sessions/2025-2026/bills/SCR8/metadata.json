@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SCR 8",
-  "title": "Senate concurrent resolution recognizing March 2026 as International Long COVID Awareness Month in Vermont.",
+  "title": "Senate concurrent resolution recognizing March 2026 as International Long COVID Awareness Month in Vermont",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "concurrent resolution"
@@ -37,16 +37,6 @@
     },
     {
       "description": "Adopted by Senate",
-      "date": "2026-03-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:01Z"
-      }
-    },
-    {
-      "description": "Adopted on the part of the Senate",
       "date": "2026-03-13",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -195,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:01Z",
+    "logs_latest_update": "2026-08-29T12:01:35Z",
     "text_extraction_latest_update": "2026-07-22T01:13:29.620352Z"
   }
 }
