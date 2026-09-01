@@ -515,6 +515,16 @@
       }
     },
     {
+      "description": "Title amended as recommended by Committee on Economic Development, Housing and General Affairs",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T10:27:28Z"
+      }
+    },
+    {
       "description": "New Business/Third Reading",
       "date": "2026-04-01",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1011,7 +1021,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-01T10:27:28Z",
     "text_extraction_latest_update": "2026-07-22T01:10:49.214223Z"
   }
 }

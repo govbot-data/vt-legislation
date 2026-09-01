@@ -404,6 +404,16 @@
       }
     },
     {
+      "description": "Title amended as recommended by Committee on Natural Resources and Energy",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T10:27:28Z"
+      }
+    },
+    {
       "description": "New Business/Third Reading",
       "date": "2026-03-26",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1495,7 +1505,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:10:16Z",
+    "logs_latest_update": "2026-09-01T10:27:28Z",
     "text_extraction_latest_update": "2026-08-09T06:11:15.506812Z"
   }
 }

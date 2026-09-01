@@ -199,6 +199,16 @@
       }
     },
     {
+      "description": "Title amended as recommended by Committee on Finance",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T10:27:28Z"
+      }
+    },
+    {
       "description": "New Business/Third Reading",
       "date": "2026-03-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -332,7 +342,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:01Z",
+    "logs_latest_update": "2026-09-01T10:27:28Z",
     "text_extraction_latest_update": "2026-07-22T01:02:20.280766Z"
   }
 }

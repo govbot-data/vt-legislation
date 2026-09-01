@@ -199,6 +199,16 @@
       }
     },
     {
+      "description": "Title amended as recommended by Committee on Health and Welfare",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T10:27:28Z"
+      }
+    },
+    {
       "description": "New Business/Third Reading",
       "date": "2026-03-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -751,7 +761,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-01T10:27:28Z",
     "text_extraction_latest_update": "2026-07-22T00:26:01.924462Z"
   }
 }
