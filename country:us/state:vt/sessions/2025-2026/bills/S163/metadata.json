@@ -342,6 +342,16 @@
       }
     },
     {
+      "description": "Title amended",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:39:40Z"
+      }
+    },
+    {
       "description": "As passed by Senate and House",
       "date": "2026-04-22",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -565,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-04T09:39:40Z",
     "text_extraction_latest_update": "2026-07-22T00:15:18.068300Z"
   }
 }
