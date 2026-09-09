@@ -68,17 +68,7 @@
       }
     },
     {
-      "description": "Rep. Arsenault of Williston moved to amend the resolution, which was agreed to",
-      "date": "2026-03-12",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:02Z"
-      }
-    },
-    {
-      "description": "Adopted in concurrence with proposal of amendment",
+      "description": "Adopted in concurrence with proposal of amendment, as offered by Rep. Arsenault of Williston",
       "date": "2026-03-12",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -86,7 +76,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:59:02Z"
+        "log_file_created": "2026-09-09T09:51:09Z"
       }
     },
     {
@@ -265,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-09T09:51:09Z",
     "text_extraction_latest_update": "2026-07-21T23:30:20.284994Z"
   }
 }
