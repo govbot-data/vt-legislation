@@ -26,18 +26,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
       }
-    },
-    {
-      "description": "Action Calendar: Third Reading",
-      "date": "2026-03-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:02Z"
-      }
     }
   ],
   "sponsorships": [
@@ -115,7 +103,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-11T10:44:02Z",
     "text_extraction_latest_update": "2026-07-22T00:28:28.246378Z"
   }
 }
