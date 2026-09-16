@@ -327,6 +327,16 @@
       }
     },
     {
+      "description": "Text of Governor's message",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:13:21Z"
+      }
+    },
+    {
       "description": "Entered on Notice Calendar",
       "date": "2026-04-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -490,7 +500,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-09-16T10:13:21Z",
     "text_extraction_latest_update": "2026-07-22T00:25:00.843466Z"
   }
 }
