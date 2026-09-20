@@ -400,6 +400,18 @@
       }
     },
     {
+      "description": "Placed on calendar, with corrected House proposal of amendment, for notice on next legislative day",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T10:25:45Z"
+      }
+    },
+    {
       "description": "Placed on Notice Calendar for May 7, 2026",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -703,7 +715,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-09-20T10:25:45Z",
     "text_extraction_latest_update": "2026-07-21T22:57:25.414589Z"
   }
 }

@@ -484,6 +484,16 @@
       }
     },
     {
+      "description": "Title amended",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T10:25:45Z"
+      }
+    },
+    {
       "description": "Delivered to Governor on June 2, 2026",
       "date": "2026-05-29",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -819,7 +829,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:10:16Z",
+    "logs_latest_update": "2026-09-20T10:25:45Z",
     "text_extraction_latest_update": "2026-08-09T06:11:15.924436Z"
   }
 }

@@ -612,6 +612,16 @@
       }
     },
     {
+      "description": "Text of Governor's message",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T10:25:45Z"
+      }
+    },
+    {
       "description": "Senate Message: Vetoed by Governor May 6, 2026",
       "date": "2026-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -805,7 +815,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:10:16Z",
+    "logs_latest_update": "2026-09-20T10:25:45Z",
     "text_extraction_latest_update": "2026-08-09T06:11:15.751102Z"
   }
 }
