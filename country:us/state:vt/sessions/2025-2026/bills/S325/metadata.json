@@ -1295,6 +1295,16 @@
       }
     },
     {
+      "description": "Senate Message: Report of Committee of Conference adopted",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:20:05Z"
+      }
+    },
+    {
       "description": "Delivered to Governor on June 10, 2026",
       "date": "2026-05-29",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1505,7 +1515,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T10:27:28Z",
+    "logs_latest_update": "2026-09-22T10:20:05Z",
     "text_extraction_latest_update": "2026-09-01T10:28:31.477456Z"
   }
 }

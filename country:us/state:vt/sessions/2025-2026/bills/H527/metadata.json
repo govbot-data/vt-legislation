@@ -271,19 +271,6 @@
       }
     },
     {
-      "description": "Pending third reading, motion to amend Senate proposal of amendment disagreed to",
-      "date": "2026-05-22",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-introduction",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:03Z"
-      }
-    },
-    {
       "description": "Read 3rd time & passed in concurrence with proposal of amendment",
       "date": "2026-05-22",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -297,11 +284,11 @@
       }
     },
     {
-      "description": "Senate Message: Passed in concurrence with proposal of amendment",
+      "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
       "date": "2026-05-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "amendment-introduction"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -309,11 +296,11 @@
       }
     },
     {
-      "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
+      "description": "Senate Message: Passed in concurrence with proposal of amendment",
       "date": "2026-05-22",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "amendment-introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -614,7 +601,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:03Z",
+    "logs_latest_update": "2026-09-22T10:20:05Z",
     "text_extraction_latest_update": "2026-07-21T22:51:38.662579Z"
   }
 }

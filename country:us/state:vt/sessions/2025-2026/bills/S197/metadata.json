@@ -482,6 +482,16 @@
       }
     },
     {
+      "description": "Title amended",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:20:05Z"
+      }
+    },
+    {
       "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
       "date": "2026-05-26",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -761,7 +771,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T10:27:28Z",
+    "logs_latest_update": "2026-09-22T10:20:05Z",
     "text_extraction_latest_update": "2026-09-01T10:28:31.466425Z"
   }
 }
