@@ -675,11 +675,11 @@
       }
     },
     {
-      "description": "Senate Message: House proposal of amendment concurred in",
+      "description": "As passed by Senate and House",
       "date": "2026-05-28",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "amendment-introduction"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -687,11 +687,23 @@
       }
     },
     {
-      "description": "As passed by Senate and House",
+      "description": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:22:15Z"
+      }
+    },
+    {
+      "description": "Senate Message: House proposal of amendment concurred in",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -876,7 +888,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T10:27:28Z",
+    "logs_latest_update": "2026-09-23T10:22:15Z",
     "text_extraction_latest_update": "2026-09-01T10:28:31.209419Z"
   }
 }
