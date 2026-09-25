@@ -602,6 +602,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:59:02Z"
       }
+    },
+    {
+      "description": "Senate Message: Signed by Governor March 26, 2026",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T10:32:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -791,7 +803,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-25T10:32:06Z",
     "text_extraction_latest_update": "2026-07-22T00:42:42.990638Z"
   }
 }
