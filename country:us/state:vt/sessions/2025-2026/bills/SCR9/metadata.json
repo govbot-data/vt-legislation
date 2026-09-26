@@ -46,18 +46,6 @@
       }
     },
     {
-      "description": "Senate Message: Adopted in concurrence",
-      "date": "2026-04-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:59:02Z"
-      }
-    },
-    {
       "description": "Adopted in concurrence pursuant to Joint Rule 16b",
       "date": "2026-04-03",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -206,7 +194,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:02Z",
+    "logs_latest_update": "2026-09-26T10:17:49Z",
     "text_extraction_latest_update": "2026-07-22T00:24:04.630463Z"
   }
 }
